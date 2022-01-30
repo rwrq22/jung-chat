@@ -42,5 +42,8 @@
 .user-component__time{
   margin-bottom: 10px;
   display: block;
-  
+}
+.user-component__subtitle i{
+  margin-left: 8px;
+  color: #FF7E6F;
 }
